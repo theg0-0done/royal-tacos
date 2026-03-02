@@ -722,10 +722,7 @@ const Footer = () => {
 
         <div className="pt-10 border-t border-white/5 flex flex-col md:flex-row justify-between items-center gap-4 text-white/20 text-sm">
           <p>© 2026 Royal Tacos. All rights reserved.</p>
-          <div className="flex justify-between gap-8">
-            <a href="#" className="hover:text-white transition-colors">Privacy Policy</a>
-            <a href="#" className="hover:text-white transition-colors">Terms of Service</a>
-          </div>
+          <p>made by <strong>Said Fateh</strong></p>
         </div>
       </div>
     </footer>
